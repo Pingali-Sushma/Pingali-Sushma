@@ -32,10 +32,9 @@ I enjoy working with Python, Java, SQL and web technologies, and continuously im
 - SQL
 
 **Web Technologies**
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Bootstrap
-- Django
 - Python Full Stack
 
 **Database & Cloud**
@@ -43,7 +42,6 @@ I enjoy working with Python, Java, SQL and web technologies, and continuously im
 - AWS S3
 
 **Tools**
-- Git
 - GitHub
 - VS Code
 - Vercel
